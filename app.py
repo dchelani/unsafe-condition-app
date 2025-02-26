@@ -10,8 +10,8 @@ import pandas as pd
 from datetime import datetime
 
 app = Flask(__name__)
-UPLOAD_FOLDER = r"D:\New folder\Python\web app\uploads"
-EXCEL_FILE = r"D:\New folder\Python\web app\unsafe_condition.xlsx"
+UPLOAD_FOLDER = r"\\192.168.4.88\Python\uploads"
+EXCEL_FILE = r"\\192.168.4.88\Python\unsafe_condition.xlsx"
 
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
