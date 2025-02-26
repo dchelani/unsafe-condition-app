@@ -1,4 +1,0 @@
-Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
-pandas==1.4.2
-openpyxl @ file:///C:/b/abs_764brjadj1/croot/openpyxl_1714158895873/work
-gunicorn==23.0.0
